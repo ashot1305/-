@@ -15,7 +15,7 @@
     }
 
     h1 {
-      font-size: 100vh;
+      font-size: 30vh;
       color: #222;
     }
   </style>
