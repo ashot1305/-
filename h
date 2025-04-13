@@ -10,7 +10,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 10000vh;
       font-family: 'Arial', sans-serif;
     }
 
